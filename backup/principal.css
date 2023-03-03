@@ -1,0 +1,45 @@
+body{
+	background-color: white;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+h3{
+	color: white;
+	text-shadow: 4px 4px #007bff;
+	font-size: 5vw;
+}
+#slides{
+	color: white;
+	text-shadow: 4px 4px #007bff;
+	font-size: 4vw;
+
+
+}
+p{
+	color: white;
+}
+#ww{
+	
+	font-size: 160%;
+}
+li{
+	color: white;
+}
+#onlyimg{
+	background-size: 80%;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 100%;
+	margin-top: -10%;
+}
+h2{
+	margin-left: 20%;
+}
+#p1{
+	font-size: 150%;
+}
+#a2{
+	font-size: 140%;
+	font-style: italic;
+}

@@ -1,0 +1,90 @@
+body {
+	background-color: #F2F2F2;
+}
+
+#logo_ {
+	width: 70px;
+	height: 70px;
+	float: right;
+	margin-right: 15px;
+}
+#download_btn {
+	width: 37%;
+	height: 100px;
+	float: left;
+	margin-bottom: 5%;
+}
+#googleplay_ {
+	width: 201px;
+	height: 70px;
+	float: left;
+	margin-left: 50px;
+	margin-right: 15px;
+	margin-top: 15px;
+}
+#appstore_ {
+	width: 201px;
+	height: 71px;
+	float: left;
+	margin-top: 15px;
+}
+#center_1 {
+	width: 80%;
+	height: 750px;
+	margin:auto;
+	margin-top: 100px;
+	color: black;
+	margin-right: 5%;
+	margin-bottom: 10%;
+}
+#why_ {
+	width: 60%;
+	height: 500px;
+	float: right;
+	margin-top: 100px;
+}
+#why_ p {
+	margin-top: 70px;
+	margin-right: 100px;
+	color: black;
+}
+#why_ h2 {
+	margin-top: -70px;
+	font-size: 40px;
+}
+#why_img {}
+#center_2 {
+	height: 700px;
+	margin:auto;
+	background-position: 100%;
+	margin-left: 50px;
+	margin-bottom: 30px;
+}
+#expl_1 {
+	width: 250px;
+	height: 400px;
+	float: left;
+	margin-left: 20%;
+	margin-top: 50px;
+	text-align: center;
+}
+#expl_2 {
+	width: 250px;
+	height: 400px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 100px;
+	text-align: center;
+}
+#expl_3 {
+	width: 250px;
+	height: 400px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 160px;
+	text-align: center;
+}
+.expl_x {
+	font-size: 17px;
+	color: black;
+}

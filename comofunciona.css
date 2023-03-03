@@ -1,0 +1,144 @@
+body{
+	background-color: #F2F2F2;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+h3{
+	color: white;
+	text-shadow: 3px 3px purple;
+	font-size: 180%;
+
+}
+
+#logo_ {
+	width: 70px;
+	height: 70px;
+	float: right;
+	margin-right: 15px;}
+#ww{
+	
+	font-size: 160%;
+}
+li{
+	color: white;
+}
+#foto1{height: 100%;
+	width: 100%}
+
+#foto2{height: 80%;
+	width: 80%;
+	margin-left: 10%
+
+}
+.corpopagina{margin-top: 4.7%;
+
+}
+
+#titulo{color: black;
+	    font-size:450%;
+	    text-align: center;
+	    color: #555555;
+        font-weight: 100;
+        font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial;
+}
+
+#centro {
+	height: 300px;
+	margin:auto;
+	background-position: 100%;
+}
+#centro img{height: 50%
+
+}
+#expl_1 {
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-left: 5%;
+	margin-top: 60px;
+	text-align: center;
+}
+#expl_2 {
+    width: 20%;
+	height: 100%;
+	float: left;
+	margin-left: 50px;
+	margin-top: 60px;
+	text-align: center;
+}
+#expl_3 {
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-left: 50px;
+	margin-top: 60px;
+	text-align: center;
+}
+#expl_4{
+	width: 20%;
+	height: 100%;
+	float: left;
+	margin-left: 60px;
+	margin-top: 60px;
+	text-align: center;}
+
+h1{font-size: 170%;
+	font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial;
+
+}
+.letra{display: block;
+font-size: 110%;
+line-height: 28px;
+color: #555555;
+font-weight: 100;
+font-family:
+
+}
+.corpopaginaa{
+	          margin-top: 10%;
+	          
+	          
+
+	          
+	          
+}
+#fundo1{margin-left: -0.4%
+        height:100%;
+        width: 100%	
+
+}
+.pulse{
+
+}
+.pulse img{ height: 550px;
+	        margin-top: -35%;
+	        
+	        
+	         
+}
+.pulse2 p{ color: white;
+
+	       
+
+}
+.pulse2 h1{ color:white ;
+	        font-size: 250%;
+	        
+
+}
+.pulse2 {margin-top: -25%;
+	     margin-right:11.4%;
+        margin-left: 32.9%;
+        font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial;
+
+}
+
+
+.bolo{margin-top: 15%
+
+}
+
+
+
+

@@ -1,0 +1,72 @@
+body{
+	background-color: #F2F2F2;
+
+}
+#logo_ {
+	width: 70px;
+	height: 70px;
+	float: right;
+	margin-right: 15px;
+}
+
+.contatodivheader{
+	width: 100%;
+	height: 460px;
+	background-image: url(img/re.png);
+	background-size: 100%
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*-----------------------------*/
+#centro {
+	height: 300px;
+	margin:auto;
+	background-position: 100%;
+}
+#centro img{height: 70%
+
+}
+#expl_1 {
+	width: 50%;
+	height: 100%;
+	float: left;
+	margin-left: 25%;
+	margin-top: 60px;
+	text-align: center;
+}
+#expl_2 {
+    width: 50%;
+	height: 100%;
+	float: left;
+	margin-left: 25%;
+	margin-top: 60px;
+	text-align: center;
+}
+#expl_3 {
+	width: 50%;
+	height: 100%;
+	float: left;
+	margin-left: 25%;
+	margin-top: 60px;
+	text-align: center;
+}
+.letra{font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial;
+	   color: #555555;
+	   font-size: 100%
+}
+h1{font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial;
+   color: #555555;
+   font-size: 250%
+}
